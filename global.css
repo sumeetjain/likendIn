@@ -8,3 +8,14 @@
 }
 
 /* ------------------------------------------------------------------------- */
+
+body{
+  margin: 0;
+  padding: 0;
+  background: #bbb;
+}
+
+#container{
+  width: 910px;
+  margin: 0 auto;
+}
